@@ -1,0 +1,37 @@
+@import "null.css"; 
+#start {
+    color: red;
+}
+
+[title="Заголовок"] {
+    color: blue;
+}
+
+[class*="-text"] {
+    color: purple;
+}
+
+span {
+    color: indianred;
+}
+
+.gameplay {
+    color: green;
+}
+
+ul li {
+    color: blue;
+}
+
+.rem {
+    color: red;
+}
+
+div .red {
+    color: red;
+}
+
+.one-text + p {
+    color: red;
+}
+
